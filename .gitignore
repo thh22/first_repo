@@ -1,5 +1,0 @@
-output/              # ignore folder called "output"
-*.pdf                # ignore all PDF files
-*.csv                # ignore all csv files
-sens_info.txt        # ignore the file "sens_info.txt"
-sens_info/*.docx     # ignore all Word documents in 'sens_info' folder
